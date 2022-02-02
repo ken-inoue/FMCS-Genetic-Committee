@@ -9,4 +9,5 @@ This repository contains notes and protocols for proper vouchering techniques of
 ## Collecting a voucher specimen
 
 ## Protocols
+- How to take a mantle tissue clip
 - How to take a swab sample
