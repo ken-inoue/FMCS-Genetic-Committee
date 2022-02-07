@@ -28,6 +28,6 @@ This repository contains notes and protocols for proper vouchering techniques of
    - Water, soil, sediments 
 
 ## Protocols
-- Vouchering a whole animal
-- Taking a mantle tissue clip
-- Taking a swab sample
+- [Vouchering a whole animal](SOP-vouchering-whole-animals.md)
+- [Taking a mantle tissue clip](SOP-taking-tissue-samples.md)
+- [Taking a swab sample](SOP-taking-swab-samples.md)
