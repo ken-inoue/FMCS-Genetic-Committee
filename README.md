@@ -1,8 +1,8 @@
-# Best practice guides for freshwater mollusk samples
+# Vouchering Guideline for Freshwater Mollusks
 This repository contains notes and protocols for proper vouchering techniques of freshwater mollusks for molecular genetic analyses.
 
 ## What is a voucher and why is it important?
-- What is a voucher?
+- [What is a voucher?](what_is_a_voucher.md)
 - Why is a voucher important?
 - What information does a voucher required?
 
