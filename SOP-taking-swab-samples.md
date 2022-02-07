@@ -1,6 +1,6 @@
 # Protocol for taking a swab sample
 ## Materials
-- 95 – 100% (190 – 200 proof) ethanol
+- 95 – 100% ethanol (190 – 200 proof)
 - Collection swabs
   - Isohelix
   - VWR #10124-664
