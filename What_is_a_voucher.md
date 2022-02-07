@@ -7,3 +7,7 @@
 - A voucher consists of a whole animal (shells and soft part), partial tissues of an animal (mantle tissue clip, mucus swab, or in some cases, other forms of biological materials (e.g., extracted DNA/RNA solutions, histological slides)
 - A voucher is deposited and stored at a facility from which researchers may later use the specimen for further studies
 
+## Why is a voucher important
+- Repeatability & reproducibility
+- Mitigation and correction of errors (e.g., incorrect application of scientific names)
+- Accessibility and availability for future studies
